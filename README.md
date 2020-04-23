@@ -1,2 +1,2 @@
 # Instagram
-challenge 01 codenation
+challenge 02 codenation
