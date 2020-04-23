@@ -19,12 +19,15 @@ body {
 
 a {
   text-decoration: none;
+  color: #000;
   font-weight: bold;
 }
 
 button {
   background-color: transparent;
   border: none;
+  box-shadow: none;
+  outline: none;
 }
 
 .container {
@@ -32,9 +35,9 @@ button {
   margin: 0 auto;
 }
 
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 728px) {
   .container {
-    width: 720px;
+    width: 728px;
   }
 }
 
